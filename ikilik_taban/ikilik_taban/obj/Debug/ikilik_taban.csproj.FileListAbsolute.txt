@@ -1,0 +1,7 @@
+C:\Users\cenan\source\repos\ikilik_taban\ikilik_taban\bin\Debug\ikilik_taban.exe.config
+C:\Users\cenan\source\repos\ikilik_taban\ikilik_taban\bin\Debug\ikilik_taban.exe
+C:\Users\cenan\source\repos\ikilik_taban\ikilik_taban\bin\Debug\ikilik_taban.pdb
+C:\Users\cenan\source\repos\ikilik_taban\ikilik_taban\obj\Debug\ikilik_taban.csproj.AssemblyReference.cache
+C:\Users\cenan\source\repos\ikilik_taban\ikilik_taban\obj\Debug\ikilik_taban.csproj.CoreCompileInputs.cache
+C:\Users\cenan\source\repos\ikilik_taban\ikilik_taban\obj\Debug\ikilik_taban.exe
+C:\Users\cenan\source\repos\ikilik_taban\ikilik_taban\obj\Debug\ikilik_taban.pdb
